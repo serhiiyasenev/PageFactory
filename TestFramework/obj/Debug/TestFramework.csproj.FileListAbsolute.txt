@@ -1,0 +1,15 @@
+C:\github\RozetkaFrameworkTest\TestFramework\bin\Debug\TestFramework.dll
+C:\github\RozetkaFrameworkTest\TestFramework\bin\Debug\TestFramework.pdb
+C:\github\RozetkaFrameworkTest\TestFramework\bin\Debug\FluentAssertions.dll
+C:\github\RozetkaFrameworkTest\TestFramework\bin\Debug\SeleniumExtras.PageObjects.dll
+C:\github\RozetkaFrameworkTest\TestFramework\bin\Debug\System.ValueTuple.dll
+C:\github\RozetkaFrameworkTest\TestFramework\bin\Debug\WebDriver.dll
+C:\github\RozetkaFrameworkTest\TestFramework\bin\Debug\FluentAssertions.pdb
+C:\github\RozetkaFrameworkTest\TestFramework\bin\Debug\FluentAssertions.xml
+C:\github\RozetkaFrameworkTest\TestFramework\bin\Debug\System.ValueTuple.xml
+C:\github\RozetkaFrameworkTest\TestFramework\bin\Debug\WebDriver.xml
+C:\github\RozetkaFrameworkTest\TestFramework\obj\Debug\TestFramework.csprojAssemblyReference.cache
+C:\github\RozetkaFrameworkTest\TestFramework\obj\Debug\TestFramework.csproj.CoreCompileInputs.cache
+C:\github\RozetkaFrameworkTest\TestFramework\obj\Debug\TestFramework.csproj.CopyComplete
+C:\github\RozetkaFrameworkTest\TestFramework\obj\Debug\TestFramework.dll
+C:\github\RozetkaFrameworkTest\TestFramework\obj\Debug\TestFramework.pdb
